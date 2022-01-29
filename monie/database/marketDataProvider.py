@@ -1,0 +1,2 @@
+class MarketDataProvider:
+    pass

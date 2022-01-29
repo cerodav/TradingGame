@@ -1,0 +1,13 @@
+log :
+  path : "D:/Sherine Davis/Code/PycharmProjects/ShopifyInternshipApplication/logDump"
+download :
+  path : "D:/Sherine Davis/Code/PycharmProjects/ShopifyInternshipApplication/download"
+service :
+  port : 9086
+database :
+  type : mysql
+  endpoint : database-shopify-1.cahmuix26uhm.us-west-2.rds.amazonaws.com
+  port : 3306
+  user : skozhika
+  password : ShopifyTest1
+  name : shopify_db
