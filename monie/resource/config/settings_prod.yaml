@@ -1,6 +1,4 @@
 log :
-  path : "D:/Sherine Davis/Code/PycharmProjects/ShopifyInternshipApplication/logDump"
-download :
-  path : "D:/Sherine Davis/Code/PycharmProjects/ShopifyInternshipApplication/download"
+  path : "D:/Sherine Davis/Code/PycharmProjects/TradingGame/logDump"
 service :
   port : 9086
